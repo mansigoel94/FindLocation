@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindMyLocation</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="google_maps_key">AIzaSyCDLciwWA8V9A2VibhRKZ40xN0yjvzXTbI</string>
+</resources>
